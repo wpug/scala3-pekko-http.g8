@@ -1,0 +1,11 @@
+target/
+.idea
+.bsp
+.metals
+.vscode
+.github
+boot/
+lib_managed/
+src_managed/
+project/plugins/project/
+
